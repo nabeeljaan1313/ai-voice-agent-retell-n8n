@@ -185,6 +185,3 @@ Inspiration: Automating real-world healthcare communication through AI-driven vo
 🧭 Keywords for GitHub SEO
 
 AI Voice Agent, Retell AI, n8n Workflow, OpenAI Assistant, Appointment Booking Bot, Voice Receptionist, AI Phone Agent, Google Calendar Integration, Conversational AI, Healthcare Automation, Node.js, Python, CRM Workflow, Speech-to-Action Assistant, Portfolio Project
-
-✅ Repository Name (Recommended):
-ai-voice-agent-retell-n8n
