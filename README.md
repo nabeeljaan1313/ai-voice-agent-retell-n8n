@@ -127,26 +127,6 @@ Connect Google Calendar and Google Sheets nodes.
 
 Test with a sample Retell call event.
 
-📁 Folder Structure
-ai-voice-agent-retell-n8n/
-│
-├── retell/
-│   └── prompt.txt
-│
-├── n8n/
-│   └── voice-agent-workflow.json
-│
-├── assets/
-│   ├── architecture-diagram.png
-│   ├── demo-thumbnail.jpg
-│   └── screenshots/
-│
-├── scripts/
-│   ├── dateparser_example.py
-│   └── chrono-node.js
-│
-├── LICENSE
-└── README.md
 
 🔍 Recommended GitHub Topics
 retell-ai, n8n, openai, voice-ai, conversational-ai, 
