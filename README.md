@@ -12,14 +12,11 @@ All booking and call summary data are automatically sent to n8n, which updates y
 
 This project is ideal as both a demo and a deployable solution for real-world businesses such as healthcare clinics, service centers, or customer support operations.
 
-🎬 Demo Video
+## 🎬 Demo Video  
 
-Watch the AI Voice Agent in action below 👇
+[![Watch the demo](https://i.vimeocdn.com/video/1133300174_640.jpg)](https://vimeo.com/1133300174)
 
-<iframe src="https://player.vimeo.com/video/1133300174"
-        width="100%" height="400" frameborder="0"
-        allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
-</iframe>
+> 🎥 *Click the image above to watch the AI Voice Agent demo on Vimeo.*
 
 
 🎥 Watch the AI Voice Agent handle a real-time appointment booking call with human-like accuracy and tone.
