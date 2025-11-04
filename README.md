@@ -14,8 +14,7 @@ This project is ideal as both a demo and a deployable solution for real-world bu
 
 ## 🎬 Demo Video  
 
-[![Watch the demo](https://i.vimeocdn.com/video/1133300174_640.jpg)](https://vimeo.com/1133300174)
-
+[![Watch the demo](assets/demo-thumbnail.jpg)](https://vimeo.com/1133300174)
 > 🎥 *Click the image above to watch the AI Voice Agent demo on Vimeo.*
 
 
