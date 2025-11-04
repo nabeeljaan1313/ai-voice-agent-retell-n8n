@@ -14,8 +14,11 @@ This project is ideal as both a demo and a deployable solution for real-world bu
 
 ## 🎬 Demo Video  
 
-[![Watch the demo](assets.png)](https://vimeo.com/1133300174)
-> 🎥 *Click the image above to watch the AI Voice Agent demo on Vimeo.*
+🎥 **Demo Video**
+
+[![Watch the AI Voice Agent Demo](demo-thumbnail.jpg)](https://vimeo.com/1133300174)
+> *Click the image above to watch the real-time appointment booking demo on Vimeo.*
+
 
 
 🎥 Watch the AI Voice Agent handle a real-time appointment booking call with human-like accuracy and tone.
